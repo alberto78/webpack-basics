@@ -1,0 +1,21 @@
+{
+  "name": "webpack-basics-example-2",
+  "version": "0.0.2",
+  "description": "Basic uses of webpack tool",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/webpack/bin/webpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alberto78/webpack-basics"
+  },
+  "author": "Alberto Chovares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberto78/webpack-basics/issues"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
