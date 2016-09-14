@@ -1,0 +1,23 @@
+{
+  "name": "webpack-basics-example-3",
+  "version": "0.0.3",
+  "description": "Basic uses of webpack tool",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/webpack/bin/webpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alberto78/webpack-basics"
+  },
+  "author": "Alberto Chovares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberto78/webpack-basics/issues"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "webpack": "^1.13.2"
+  }
+}
